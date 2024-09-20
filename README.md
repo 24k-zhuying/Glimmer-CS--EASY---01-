@@ -29,7 +29,7 @@ int main() {
 }
 ```
 
-![QQ20240918-231826](C:\Users\ASUS\Pictures\QQ20240918-231826.png)
+[![QQ20240918-231826](C:\Users\ASUS\Pictures\QQ20240918-231826.png)](https://github.com/24k-zhuying/Glimmer-CS--EASY---01-/blob/main/QQ20240918-231826.png)
 
 # 基础语法运用
 
